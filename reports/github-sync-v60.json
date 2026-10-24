@@ -1,0 +1,33 @@
+{
+  "status": "SYNCED_AND_REMOTE_VERIFIED",
+  "date": "2026-10-24",
+  "repository": "ud-tetra/UD-Site",
+  "branch": "main",
+  "sites_version": 60,
+  "upstream_source_commit": "0337cb240a042c2dcabfb83b4d5564483d6c458b",
+  "verified_mirror_commit": "7c38666b784c391de30c1cb9c5f36463d9a31a61",
+  "verified_mirror_tree": "a845f96885d24a3e0a5ca3edc227d56ec7b1595e",
+  "remote_tree_matches_local_exactly": true,
+  "source_files": 1224,
+  "web_files": 1105,
+  "html_pages": 50,
+  "lamp_archive": {
+    "path": "releases/lamp/Unified-Dynamics-Public-Atlas-LAMP-v60-2026-10-24.zip",
+    "size_bytes": 90522398,
+    "sha256": "9c59889ac92e113f95878faa1434e122dfe07a2d9a4720c99038b220e0d6a4e6"
+  },
+  "github_validation": {
+    "status": "success",
+    "run_id": 40118705490,
+    "url": "https://github.com/ud-tetra/UD-Site/actions/runs/40118705490",
+    "layouts": [
+      "domain root",
+      "/UD-Site"
+    ],
+    "local_links_and_fragments": 1824,
+    "json_files": 375,
+    "javascript_syntax_checks": 29
+  },
+  "github_pages": "Workflow prepared; live Pages deployment not enabled or claimed",
+  "recurring_source_sync": "Not scheduled; milestone procedure in docs/MIRROR-SYNC-PLAN.md"
+}
