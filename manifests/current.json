@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "sites_version": 60,
+  "source_commit": "0337cb240a042c2dcabfb83b4d5564483d6c458b",
+  "manifest": "manifests/releases/sites-v60.json"
+}

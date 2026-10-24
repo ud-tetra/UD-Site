@@ -1,0 +1,5 @@
+# Provenance hashes describe bytes; disable platform-specific newline conversion.
+* -text
+*.zip binary
+*.pdf binary
+*.docx binary

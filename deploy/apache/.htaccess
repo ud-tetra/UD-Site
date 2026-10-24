@@ -1,0 +1,17 @@
+# Unified Dynamics: ordinary static files, no front controller or rewrite rules.
+DirectoryIndex index.html
+
+<IfModule mod_mime.c>
+    AddType text/javascript .js .mjs
+    AddType application/json .json
+    AddType image/svg+xml .svg
+    AddType application/pdf .pdf
+    AddType application/zip .zip
+    AddType text/plain .py .tex .md
+    AddType text/csv .csv
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

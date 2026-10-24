@@ -1,0 +1,24 @@
+name: Validate atlas mirror
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Verify source, website, and archive integrity
+        run: python3 tools/verify_mirror.py
+      - name: Prepare Pages project-path layout
+        run: python3 tools/prepare_deployment.py --output build/pages --base-path /UD-Site --origin https://ud-tetra.github.io
+      - name: Verify generated Pages layout
+        run: python3 tools/verify_mirror.py --web-root build/pages --base-path /UD-Site

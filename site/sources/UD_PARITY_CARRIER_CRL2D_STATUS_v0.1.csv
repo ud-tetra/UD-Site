@@ -1,0 +1,16 @@
+field,value
+claim,UD_HODGE_EVENT_RETAINED_PARITY_CARRIER_THEOREM_v0.1
+theorem_sha256,47fea91d97f8e2c4441b7bab1f1ad06f9a8fc74507f34645433572791d74a863
+crl2c_execution_record_sha256,762916a56873ddc3a1527e848ae72738aedda337e0cbc4d6f16a9b901e077088
+independent_replicator,Gemini
+replication_provider,Google
+replication_verdict,PASS
+valid_cases,12/12 IN_SCOPE_PASS
+controls,6/6 CONTROL_FAIL
+in_scope_failures,0
+custodian_ruling,PROMOTE_TO_CRL2D
+current_crl,CRL-2d
+label,REPLICATED
+crl3_eligibility,ELIGIBLE_FOR_CONSIDERATION_ONLY
+permanent_rider,transport consistency; not dynamical discovery
+physical_promotion,0

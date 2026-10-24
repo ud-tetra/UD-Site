@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "sites_version": 60,
+  "source_commit": "0337cb240a042c2dcabfb83b4d5564483d6c458b",
+  "source_files_hash_checked": 1224,
+  "release_archives_checked": 1,
+  "layout": "domain root",
+  "html_pages": 50,
+  "local_links_and_fragments": 1824,
+  "json_files": 375,
+  "javascript_syntax_checks": 29,
+  "literal_fetch_inputs": 22,
+  "external_render_assets": [],
+  "scientific_proofs_revalidated": false,
+  "apache_runtime_tested": false,
+  "errors": []
+}

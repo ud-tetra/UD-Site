@@ -1,0 +1,16 @@
+{
+  "status": "SYNCED",
+  "sites_version": 60,
+  "source_commit": "0337cb240a042c2dcabfb83b4d5564483d6c458b",
+  "source_files": 1224,
+  "web_files": 1105,
+  "release_archives": [
+    {
+      "path": "releases/lamp/Unified-Dynamics-Public-Atlas-LAMP-v60-2026-10-24.zip",
+      "sha256": "9c59889ac92e113f95878faa1434e122dfe07a2d9a4720c99038b220e0d6a4e6",
+      "size_bytes": 90522398,
+      "kind": "standalone-lamp-export"
+    }
+  ],
+  "manifest": "manifests/releases/sites-v60.json"
+}

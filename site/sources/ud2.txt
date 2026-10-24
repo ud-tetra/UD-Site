@@ -1,0 +1,333 @@
+
+
+
+  
+  
+  Unified Dynamics Theory — Public Science Portal
+  
+
+
+  
+
+    
+      
+
+        
+        
+UNIFIED DYNAMICS THEORY
+		
+PUBLIC SCIENCE PORTAL
+        
+
+          UD portal for cross-disciplinary review, theorem traceability,
+          scientific maturity, evidence layers, and experiment readiness.
+        
+      
+
+      
+
+        
+Search
+        
+      
+
+      
+
+        
+Portal Routes
+        
+
+      
+
+      
+
+        
+Sector Views
+        
+
+      
+
+      
+
+        
+Discipline Filter
+        
+      
+
+      
+
+        
+Status Legend
+        
+
+          Closed / Integrated
+          Predictive / Testable
+          Near-Complete
+          Open / Frontier
+          Hash-Locked Artifact
+        
+      
+
+      
+
+        
+Audience Guide
+        
+
+          Physics: gauge, gravity, quantum, cosmology
+          Mathematics: closure, operators, stability
+          Chemistry / Materials: bonding, coherence, interfaces
+          Information: Δ encoding, compression, registries
+          Biology / Complexity: resilience, redundancy, failure cascades
+        
+      
+    
+
+    
+      
+
+        
+          
+
+            
+Cross-branch scientific architecture
+            
+Unified Dynamics as a portal for all branches of science
+            
+
+            
+
+            
+
+          
+
+          
+
+            
+Global status snapshot
+            
+
+          
+        
+
+        
+          
+
+            
+
+              
+Program Overview
+              
+Top-level numbers for public comprehension, governance visibility, and scientific maturity.
+            
+          
+          
+
+        
+
+        
+          
+
+            
+
+              
+What Is Unified Dynamics
+              
+A public-facing introduction to the framework, written for scientists entering from different branches.
+            
+          
+          
+
+          
+        
+
+        
+          
+
+            
+
+              
+Discipline Entry Points
+              
+Scientists can begin from their home field and then move into linked sectors, proofs, observables, and experiments.
+            
+            
+
+          
+          
+
+          
+        
+
+        
+          
+
+            
+
+              
+Scientific Scope
+              
+A concise framing layer for readers from theory, experiment, applied science, and review governance.
+            
+          
+          
+
+        
+
+        
+          
+
+            
+
+              
+Sector Matrix
+              
+Click a tile to reveal public interpretation, theorem path, evidence, observables, experiments, and expansion targets.
+            
+            
+
+          
+          
+
+        
+
+        
+          
+
+            
+
+              
+Interactive Sector Graph
+              
+Relationship map for core, physics, applied, and governance layers. Click nodes to open the associated sector.
+            
+          
+          
+
+            
+          
+        
+
+        
+
+        
+          
+
+            
+
+              
+Proof / Theory Pipeline
+              
+How readers move from postulates and primitives to theorem layers, observables, and predictive consequence.
+            
+          
+          
+
+          
+        
+
+        
+          
+
+            
+
+              
+Evidence Layers
+              
+Formal, simulation, and phenomenology layers exposed for public review and partner-system ingestion.
+            
+          
+          
+
+        
+
+        
+          
+
+            
+
+              
+Scientific Review Flow
+              
+A clean audit path from discipline entry and sector inspection to comparison, experiments, and governance review.
+            
+          
+          
+
+        
+
+        
+          
+
+            
+
+              
+Experimental Readiness
+              
+Programs that translate theory sectors into measurable signatures, benchmark tracks, and branch-facing validation work.
+            
+          
+          
+
+        
+
+        
+          
+
+            
+
+              
+Public Website Expansion Tracks
+              
+Drop-in roadmap for expanding this shell into a full public-facing UD portal without changing global CSS or JavaScript.
+            
+          
+          
+
+        
+
+        
+          
+
+            
+
+              
+Sector Readiness Table
+              
+Compact audit layer for readers who prefer a structured technical comparison view.
+            
+          
+          
+
+            
+              
+                
+
+                  Sector
+                  Branch
+                  Status
+                  Evidence
+                  Next Public Expansion
+                
+              
+              
+            
+          
+        
+
+        
+
+          
+Portal goal: scientists from every branch should be able to enter by discipline, inspect the formal basis relevant to their field, and follow the connected proof and experiment structure without visual overload.
+          
+This template is modular: future blocks can be inserted as new <section class="portal-section" data-block="..."> sections without modifying the shared CSS or JavaScript.
+        
+      
+    
+  
+
+  
+
+
+  
+

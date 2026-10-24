@@ -1,0 +1,32 @@
+name: Complete verified mirror import
+
+on:
+  push:
+    branches: [mirror/import-v60]
+    paths: ['.transport/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  complete:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Assemble exact original large files
+        run: python3 tools/complete_import.py
+      - name: Verify complete original mirror
+        run: python3 tools/verify_mirror.py
+      - name: Prepare and validate Pages layout
+        run: |
+          python3 tools/prepare_deployment.py --output build/pages --base-path /UD-Site --origin https://ud-tetra.github.io
+          python3 tools/verify_mirror.py --web-root build/pages --base-path /UD-Site
+      - name: Commit complete mirror and publish to main
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add releases/lamp site/assets/sources.json
+          git add -u .transport
+          git commit -m 'Complete v60 mirror with verified standalone LAMP archive'
+          git push origin HEAD:main

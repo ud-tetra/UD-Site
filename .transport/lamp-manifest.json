@@ -1,0 +1,88 @@
+{
+  "files": [
+    {
+      "path": "releases/lamp/Unified-Dynamics-Public-Atlas-LAMP-v60-2026-10-24.zip",
+      "sha256": "9c59889ac92e113f95878faa1434e122dfe07a2d9a4720c99038b220e0d6a4e6",
+      "size_bytes": 90522398,
+      "parts": [
+        {
+          "path": ".transport/payloads/asset-0-part-000",
+          "sha256": "382380926354ff2f0c92ba8674a33c0d1d1b10fea5c59a62c37370ee8116e31c",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-001",
+          "sha256": "a201fabd96739d33aee7f1c42e1238aab2e0ddde46b9283a819384a712566526",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-002",
+          "sha256": "7dafcdba323f9cae994ec3b89c6a059f746b238d21b80b504303845640e4f629",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-003",
+          "sha256": "1044ac79d6b5311a42414eb00480c63d6ce6a3851325c66b6afd7afb3c2e7734",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-004",
+          "sha256": "a08ea8ba6a3154569b5cfad6b817781b032f801f59fdb519eb08e5bdc1db91bb",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-005",
+          "sha256": "44e2dde80a0d57f83b7c6c7a9cda8a5c55b74efe2702d0100af6f8b81e688e37",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-006",
+          "sha256": "d4af17d22a100dffd9bb1770fd39cee9ef046dece33a696c8e09ec5a2d9281c3",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-007",
+          "sha256": "f9fbdb1998a1422d6e04f7b0c87eaafe524eff26f19c242647b84285ba24c2ec",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-008",
+          "sha256": "b2df4fbcb4083fd1970670b18befad5592b716f75ef8e66c117896671faaf651",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-009",
+          "sha256": "c1604eb454027bca0859b309858eac5c53de3a6ba7870022485ed1de12059a1f",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-0-part-010",
+          "sha256": "c99501f9ebe117c47badf2eaefea0121a235932071a557b281391bba3f4e8884",
+          "size_bytes": 6636318
+        }
+      ]
+    },
+    {
+      "path": "site/assets/sources.json",
+      "sha256": "6b56f96b5f69154e592d8fd455eade5fc9283b8955ba5733bac7ae8771dff060",
+      "size_bytes": 22551717,
+      "parts": [
+        {
+          "path": ".transport/payloads/asset-1-part-000",
+          "sha256": "611e10c106f8ecdda19b56a7ef79772f5a782cf2db3ce3a12c79059cdb45f2a8",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-1-part-001",
+          "sha256": "9e67d70b741ce0ed85879388199675f1bb9c4cfeaac877c01326074158935d40",
+          "size_bytes": 8388608
+        },
+        {
+          "path": ".transport/payloads/asset-1-part-002",
+          "sha256": "e12c0be004ed22f07145b1ea549679890234f834b7071ee55ed2c287b0e0a526",
+          "size_bytes": 5774501
+        }
+      ]
+    }
+  ]
+}
