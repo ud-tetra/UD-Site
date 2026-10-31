@@ -71,3 +71,8 @@ historical originals are not invented. External citations remain external.
 
 This is a research publication mirror. Constructor checks, independent review,
 and empirical evidence retain separate meanings. **Physical promotion: 0.**
+
+
+## Program-wide predictive discovery policy - proposal 31 October 2026
+
+[Canonical policy v1.0](https://github.com/ud-tetra/UD/blob/ff89221626d3258dc458f01408f1fac80a072530/docs/UD_PREDICTIVE_DISCOVERY_PROTOCOL_v1.0.md) is staged for review (SHA-256 `d5e5f079996863ae156a3d35e1cf8ba5135c2f7b8699bd9f9a4b492828351310`), and [this repository's adoption note](governance/UD_PREDICTIVE_DISCOVERY_ADOPTION_v1.0.md) governs the proposed README/boot changes. Exploratory FIT and novel observable candidates are allowed in source research, but no mathematical match becomes a physical prediction without independent bridge testing. This is a documentation-only GitHub PR: **the one-way managed site/source mirror, published Sites revision 60, and LAMP exports are unchanged.** Physical promotion 0.

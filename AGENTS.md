@@ -15,3 +15,8 @@ Run `python3 tools/verify_mirror.py` before pushing. Node.js must be available f
 JavaScript syntax validation. Do not run historical scientific build scripts as
 part of a mirror update. An automated mirror check is not independent review of
 the research. Physical promotion remains 0.
+
+
+## Predictive-discovery governance proposal (2026-10-31)
+
+Read `BOOTLOADER.md` and `governance/UD_PREDICTIVE_DISCOVERY_ADOPTION_v1.0.md` before proposing observables. Permit labeled discovery FIT and candidate hypotheses; do not promote physical identifications without a source-complete observable and independent test. These are repository-level governance documents outside the managed `site/` and `source/` trees; do not edit or resync those without an upstream Sites source receipt. Effective adoption awaits PR review/merge; physical promotion 0.
